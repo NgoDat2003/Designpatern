@@ -1,5 +1,7 @@
 package state;
 
-public class ChucVuState {
 
+public interface ChucVuState {
+    void chucVu();
 }
+
